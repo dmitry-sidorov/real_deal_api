@@ -2,7 +2,7 @@ import Config
 
 # Configure your database
 config :real_deal_api, RealDealApi.Repo,
-  username: "backend_stuff",
+  username: "dmitrysidorov",
   password: "blork_erlang",
   hostname: "localhost",
   database: "real_deal_api_dev",
