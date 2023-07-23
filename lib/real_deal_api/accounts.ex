@@ -57,7 +57,7 @@ defmodule RealDealApi.Accounts do
   end
 
   @doc """
-  Creates a account.
+  Creates an account.
 
   ## Examples
 
